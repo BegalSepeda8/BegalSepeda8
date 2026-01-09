@@ -51,9 +51,3 @@
 - Learn backend & frontend integration
 - Experiment with game development
 - Document learning progress
-
----
-
-## Notes:
-This GitHub profile is a learning space.  
-Progress over perfection.: ..
